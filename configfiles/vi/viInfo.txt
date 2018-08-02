@@ -1,5 +1,5 @@
 /Users/mining/project/src/apps/app/ipc/client_ios/vimtag_vimtag/mipci.xcodeproj
-VN4Q3CLHVC
+xxxx
 /Users/mining/Desktop/XCodeB/vimtag.xcarchive
 /Users/mining/AutoPack/ArchiveShell/configfiles/vi/AdHocExportOptionsPlist.plist
 /Users/mining/Desktop/XCodeB/Vimtag_5.7.1_Adhoc
