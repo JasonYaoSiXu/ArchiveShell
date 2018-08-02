@@ -12,7 +12,7 @@ ONLY_ACTIVE_ARCH=NO \
 CODE_SIGN_IDENTITY="iPhone Developer" \
 CODE_SIGN_STYLE="Automatic" \
 PROVISIONING_STYLE="Automatic" \
-DEVELOPMENT_TEAM="VN4Q3CLHVC" \
+DEVELOPMENT_TEAM="" \
 -archivePath ~/Desktop/XCodeB/a.xcarchive \
 archive
 

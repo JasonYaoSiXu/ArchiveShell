@@ -3,10 +3,10 @@
 <plist version="1.0">
 <dict>
 	<key>method</key>
-	<string>app-store</string>
+	<string>ad-hoc</string>
 	<key>teamID</key>
-	<string>VN4Q3CLHVC</string>
+	<string></string>
 	<key>compileBitcode</key>
-	<string>NO</string>
+	<false/>
 </dict>
 </plist>
