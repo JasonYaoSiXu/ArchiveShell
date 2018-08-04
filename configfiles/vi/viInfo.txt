@@ -1,8 +1,9 @@
-/Users/mining/project/src/apps/app/ipc/client_ios/vimtag_vimtag/mipci.xcodeproj
-xxxx
-/Users/mining/Desktop/XCodeB/vimtag.xcarchive
-/Users/mining/AutoPack/ArchiveShell/configfiles/vi/AdHocExportOptionsPlist.plist
-/Users/mining/Desktop/XCodeB/Vimtag_5.7.1_Adhoc
-/Users/mining/AutoPack/ArchiveShell/configfiles/vi/AppStoreExportOptionsPlist.plist
-/Users/mining/Desktop/XCodeB/Vimtag_5.7.1_Release
-mipci
+/Users/mining/project/src/apps/app/ipc/client_ios/xxx_xxx/mipci.xcodeproj
+TeamID
+/Users/mining/Desktop/XCodeB/xxx.xcarchive
+/Users/mining/autoIOSPack/configfiles/vi/AdHocExportOptionsPlist.plist
+/Users/mining/Desktop/XCodeB/xxx_5.7.1_Adhoc
+/Users/mining/autoIOSPack/configfiles/vi/AppStoreExportOptionsPlist.plist
+/Users/mining/Desktop/XCodeB/xxxx_5.7.1_Release
+schem
+/Users/mining/autoIOSPack/configfiles/vi/accountInfo.txt
