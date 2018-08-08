@@ -5,7 +5,7 @@
 	<key>method</key>
 	<string>app-store</string>
 	<key>teamID</key>
-	<string>TeamID</string>
+	<string>xxxx</string>
 	<key>compileBitcode</key>
 	<string>NO</string>
 </dict>

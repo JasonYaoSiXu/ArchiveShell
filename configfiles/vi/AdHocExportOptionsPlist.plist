@@ -5,7 +5,7 @@
 	<key>method</key>
 	<string>ad-hoc</string>
 	<key>teamID</key>
-	<string>TeamID</string>
+	<string>xxxxx</string>
 	<key>compileBitcode</key>
 	<false/>
 </dict>

@@ -19,7 +19,7 @@ echo "*****检测中*****"
 
 opreationResult=`cat ./check.txt | grep $flagStr`
 if [[ "$opreationResult" != "" ]]; then
-    echo "${opreationResult}"
+    echo "检测成功!"
 else
     echo "检测失败"
     exit
@@ -30,7 +30,7 @@ echo "*****上传中*****"
 
 opreationResult=`cat ./upload.txt | grep $flagStr`
 if [[ "$opreationResult" != "" ]]; then
-    echo "上传结果:${opreationResult}"
+    echo "上传成功!"
 else
     echo "上传失败"
     exit
